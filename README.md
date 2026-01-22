@@ -9,4 +9,4 @@ Furthermore, I have some projects I call dream (sueño) projects like Symphony w
 
 
 # My Tech Stack
-![My Skills](https://skillicons.dev/icons?i=java,androidstudio,html,css,js,kotlin,git,github,linux,sqlite,mysql,gradle,maven&theme=dark)]
+![My Skills](https://skillicons.dev/icons?i=java,androidstudio,html,css,js,kotlin,git,github,linux,sqlite,mysql,gradle,maven&theme=dark)

@@ -1,4 +1,4 @@
-## 😁 Hi there 👋 I am Olugbayike A., I am passionate and commited to turning complex problems into simple software solutions. 😁
+## 😁 Hi there 👋 I am Olugbayike A., and I am passionate and commited to turning complex problems into simple software solutions. 😁
 
 ## About Me
 I believe everyone is an artist, some use paint brushes, some use words, some use rulers and dimensions, I use 0's and 1's, i.e., I express myself through code. Inspiration is a beautiful thing so I plan to showcase my projects or neigh I say pieces as I continue to grow. A detailed information/documentation on my repos can be found through links on my [LinkedIn profile](https://www.linkedin.com/in/olugbayike-ade-onojobi)
